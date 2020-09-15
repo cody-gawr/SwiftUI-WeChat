@@ -63,12 +63,6 @@ Light Mode|Dark Mode
 - Xcode 11+
 - Swift 5.1+
 
-## Contributors
-
-Create by [森仔](https://github.com/wxxsw)
-
-Banner Design by [@aduqin](https://dribbble.com/aduqin)
-
 ## License
 
 SwiftUI-WeChat is released under the MIT license. [See LICENSE](https://github.com/wxxsw/SwiftUI-WeChat/blob/master/LICENSE) for details.
